@@ -89,7 +89,7 @@ final_list_unique <- final_list_unique %>%
   left_join(x = ., y = duplicated_id, by = c("id"="value")) %>%
   filter(is_duplicated == FALSE)
 
-saveRDS(final_list_unique, file = "final_list.RDS")
+saveRDS(final_list_unique, file = "output_data/final_list_ariadne_inrap.RDS")
 
 ##### ISIDORE #####
 urlbase <- "https://api.isidore.science/resource/search?q=title%3Aquartier&title%3Aquartier&scope=http%3A%2F%2Fisidore.science%2Fsubject%2Fpublications&page={thispage}&output=json&replies=100&discipline=http://aurehal.archives-ouvertes.fr/subject/shs.archeo"
