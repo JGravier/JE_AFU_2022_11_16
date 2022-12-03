@@ -1,7 +1,5 @@
 
-## Objectifs
-
-Data et code lié au workshop AFU
+# Data et code lié à une présentation AFU
 
 ## Workshop
 
@@ -40,3 +38,12 @@ temps, tous deux ponctués d’exemples concrets :
     quartier ». On se concentrera sur le cas de Paris au 19e siècle, cas
     récent, mais qui sera ici explicitement utilisé comme laboratoire de
     réflexions pour des périodes plus anciennes.
+
+### Data
+
+1.  Métadonnées rapports de l’INRAP :
+
+-   scraping depuis l’API du portail ARIADNE
+
+-   CORINE Land Cover (CLC) millésimes 2006 et 2018,
+    <http://www.statistiques.developpement-durable.gouv.fr/corine-land-cover-0>

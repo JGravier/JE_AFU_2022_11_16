@@ -3,8 +3,7 @@ output: github_document
 editor_options: 
 chunk_output_type: console
 ---
-## Objectifs
-Data et code lié au workshop AFU
+# Data et code lié à une présentation AFU
 
 ## Workshop
 Le projet collectif ARCHÉOLOGIE DU FAIT URBAIN (AFU) de l'UMR 7041 ArScAn tient le vendredi 16 décembre 2022 sa cinquième journée d’étude qui a pour sujet [“Faire ou ne pas faire (de) quartier ?”](https://faiturbain.hypotheses.org/journee-du-16-decembre-2022-faire-ou-ne-pas-faire-de-quartier-2)
@@ -20,4 +19,10 @@ L’intervention a pour objectif de montrer comment la géographie théorique et
 
 2. on étudiera ensuite comment les localisations des activités dans la ville permet de percevoir la diversité de ce qui peut « faire quartier ». On se concentrera sur le cas de Paris au 19e siècle, cas récent, mais qui sera ici explicitement utilisé comme laboratoire de réflexions pour des périodes plus anciennes.
 
+### Data
 
+1. Métadonnées rapports de l'INRAP :
+
+* scraping depuis l'API du portail ARIADNE
+
+* CORINE Land Cover (CLC) millésimes 2006 et 2018, [http://www.statistiques.developpement-durable.gouv.fr/corine-land-cover-0](http://www.statistiques.developpement-durable.gouv.fr/corine-land-cover-0)
