@@ -33,3 +33,5 @@ data/96-batiL93/000-README.TXT
 data/96-batiL93/00-LISEZMOI.TXT
 data/96-batiL93/0-Donnees_Alpage_Licence_ODbL.pdf
 data/.DS_Store
+.Rhistory
+.RData

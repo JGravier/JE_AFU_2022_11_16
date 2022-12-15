@@ -48,7 +48,7 @@ temps, tous deux ponctués d’exemples concrets :
 2.  Données relatives à Paris : réseau de rues du plan Jacoubet extrait
     depuis GeoHistoricalData, “Verniquet map” and “Jacoubet Atlas” Paris
     street networks, Harvard Dataverse, 2019, V1, doi:
-    [10.7910/DVN/CCESX4](https://doi.org/10.7910/DVN/CCESX4) et données
+    [10.7910/DVN/CCESX4](https://doi.org/10.7910/DVN/CCESX4) ; données
     localisées des bijoutiers et des épiciers extraites de l’annuaire de
     Lamy de 1839 (version v2:2022-06-20). Voir en particulier N.
     Abadie, E. Carlinet, J. Chazalon, et B. Duménieu, « A Benchmark
@@ -56,4 +56,8 @@ temps, tous deux ponctués d’exemples concrets :
     Application to 19th Century French Directories », in Document
     Analysis Systems, Cham, 2022, p. 445‑460. doi:
     [10.1007/978-3-031-06555-2_30](https://doi.org/10.1007/978-3-031-06555-2_30),
-    ainsi que [github.com/soduco](https://github.com/soduco)
+    ainsi que [github.com/soduco](https://github.com/soduco) ; données
+    relatives au bâti parisien entre 1810 et 1860 à partir de Vasserot,
+    élaborées par A.L. Bethe en 2010 dans le cadre de l’ANR Alpage,
+    voir:
+    <https://alpage.huma-num.fr/donnees-vasserot-version-1-2010-a-l-bethe/>
