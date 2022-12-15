@@ -21,8 +21,7 @@ L’intervention a pour objectif de montrer comment la géographie théorique et
 
 ### Data
 
-1. Métadonnées rapports de l'INRAP :
+1. Métadonnées rapports de l'INRAP : web scraping depuis l'API du portail ARIADNE et CORINE Land Cover (CLC) millésimes 2006 et 2018, [http://www.statistiques.developpement-durable.gouv.fr/corine-land-cover-0](http://www.statistiques.developpement-durable.gouv.fr/corine-land-cover-0)
 
-* scraping depuis l'API du portail ARIADNE
+2. Données relatives à Paris : réseau de rues du plan Jacoubet extrait depuis GeoHistoricalData, "Verniquet map" and "Jacoubet Atlas" Paris street networks, Harvard Dataverse, 2019, V1, doi: [10.7910/DVN/CCESX4](https://doi.org/10.7910/DVN/CCESX4) et données localisées des bijoutiers et des épiciers extraites de l'annuaire de Lamy de 1839 (version v2:2022-06-20). Voir en particulier N. Abadie, E. Carlinet, J. Chazalon, et B. Duménieu, « A Benchmark of Named Entity Recognition Approaches in Historical Documents Application to 19th Century French Directories », in Document Analysis Systems, Cham, 2022, p. 445‑460. doi: [10.1007/978-3-031-06555-2_30](https://doi.org/10.1007/978-3-031-06555-2_30), ainsi que [github.com/soduco](https://github.com/soduco)
 
-* CORINE Land Cover (CLC) millésimes 2006 et 2018, [http://www.statistiques.developpement-durable.gouv.fr/corine-land-cover-0](http://www.statistiques.developpement-durable.gouv.fr/corine-land-cover-0)
