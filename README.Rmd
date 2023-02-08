@@ -6,11 +6,13 @@ chunk_output_type: console
 # Data et code lié à une présentation AFU
 
 ## Workshop
-Le projet collectif ARCHÉOLOGIE DU FAIT URBAIN (AFU) de l'UMR 7041 ArScAn tient le vendredi 16 décembre 2022 sa cinquième journée d’étude qui a pour sujet [“Faire ou ne pas faire (de) quartier ?”](https://faiturbain.hypotheses.org/journee-du-16-decembre-2022-faire-ou-ne-pas-faire-de-quartier-2)
+Le projet collectif Archéologie du fait urbain (AFU) de l'UMR 7041 ArScAn tient le vendredi 16 décembre 2022 sa cinquième journée d’étude qui a pour sujet [“Faire ou ne pas faire (de) quartier ?”](https://faiturbain.hypotheses.org/journee-du-16-decembre-2022-faire-ou-ne-pas-faire-de-quartier-2)
 
 ## Présentation
+[![hal-03977011](https://img.shields.io/badge/HAL-support_ppt-green.svg)](https://hal.science/hal-03977011)
+
 ### Titre
-La géographie théorique et quantitative pour étudier les usages du concept de quartier en archéologie
+Regard de... La géographie théorique et quantitative pour étudier les usages du concept de quartier en archéologie
 
 ### Résumé
 L’intervention a pour objectif de montrer comment la géographie théorique et quantitative est efficace pour nous aider à questionner, voire repenser, la notion de quartier telle qu’appréhendée et saisissable en archéologie. La présentation sera organisée en deux temps, tous deux ponctués d’exemples concrets :
