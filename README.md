@@ -1,6 +1,9 @@
 
 # Data et code lié à une présentation AFU
 
+[![License:
+MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/JGravier/JE_AFU_2022_11_16/blob/main/LICENSE)
+
 ## Workshop
 
 Le projet collectif Archéologie du fait urbain (AFU) de l’UMR 7041

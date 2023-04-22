@@ -5,6 +5,9 @@ chunk_output_type: console
 ---
 # Data et code lié à une présentation AFU
 
+[![License:
+MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/JGravier/JE_AFU_2022_11_16/blob/main/LICENSE)
+
 ## Workshop
 Le projet collectif Archéologie du fait urbain (AFU) de l'UMR 7041 ArScAn tient le vendredi 16 décembre 2022 sa cinquième journée d’étude qui a pour sujet [“Faire ou ne pas faire (de) quartier ?”](https://faiturbain.hypotheses.org/journee-du-16-decembre-2022-faire-ou-ne-pas-faire-de-quartier-2)
 
