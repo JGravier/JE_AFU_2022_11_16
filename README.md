@@ -1,26 +1,24 @@
 
 # Data et code lié à une présentation AFU
 
-[![License:
-MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/JGravier/JE_AFU_2022_11_16/blob/main/LICENSE)
+## Présentation et DOI du dépôt
 
-## Workshop
+[![hal-03977011](https://img.shields.io/badge/HAL-support_ppt-green.svg)](https://hal.science/hal-03977011)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7937051.svg)](https://doi.org/10.5281/zenodo.7937051)
+
+## Contexte du workshop
 
 Le projet collectif Archéologie du fait urbain (AFU) de l’UMR 7041
 ArScAn tient le vendredi 16 décembre 2022 sa cinquième journée d’étude
 qui a pour sujet [“Faire ou ne pas faire (de) quartier
 ?”](https://faiturbain.hypotheses.org/journee-du-16-decembre-2022-faire-ou-ne-pas-faire-de-quartier-2)
 
-## Présentation
-
-[![hal-03977011](https://img.shields.io/badge/HAL-support_ppt-green.svg)](https://hal.science/hal-03977011)
-
 ### Titre
 
 Regard de… La géographie théorique et quantitative pour étudier les
 usages du concept de quartier en archéologie
 
-### Résumé
+### Résumé de l’intervention
 
 L’intervention a pour objectif de montrer comment la géographie
 théorique et quantitative est efficace pour nous aider à questionner,
@@ -44,7 +42,7 @@ temps, tous deux ponctués d’exemples concrets :
     récent, mais qui sera ici explicitement utilisé comme laboratoire de
     réflexions pour des périodes plus anciennes.
 
-### Data
+### Données utilisées pour la présentation
 
 1.  Métadonnées rapports de l’INRAP : web scraping depuis l’API du
     portail ARIADNE et CORINE Land Cover (CLC) millésimes 2006 et 2018,
